@@ -64,3 +64,9 @@ data = open("data.txt","r")
 
 for i in data:
     print(i)
+
+i = 0
+
+while i <101:
+    print(i+i)
+    i+=1
